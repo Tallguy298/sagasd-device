@@ -1,3 +1,3 @@
 # sagasd.device
-This is a romable sagasd.device for AROS.ROM kickstart rom.
+sagasd.device for vampire v2/v4, romable and bootable.
 This device driver is experimental.
